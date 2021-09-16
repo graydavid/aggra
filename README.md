@@ -124,6 +124,6 @@ TopLevelResponse getResponse(TopLevelRequest request) {
 }
 ```
 
-##Contributions
+## Contributionss
 
 Contributions are welcome! See the [graydavid-parent](https://github.com/graydavid/graydavid-parent) project for details.
